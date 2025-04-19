@@ -61,7 +61,8 @@ public class FacebookTest {
 		System.out.println(arrList);
 		Thread.sleep(5000);
 		driver.quit();
-
 	}
+
+
 
 }
